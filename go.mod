@@ -1,4 +1,4 @@
-module github.com/lx807/Common
+module github.com/lx807/common
 
 go 1.13
 
